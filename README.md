@@ -1,0 +1,2 @@
+# EmailAdmin
+Email administration application
